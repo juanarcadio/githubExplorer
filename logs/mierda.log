@@ -1,0 +1,231 @@
+[INFO ] 2019-09-26 16:22:33.364 [main] RunMierdas - New empty user & repo manager
+[DEBUG] 2019-09-26 16:22:33.364 [main] RunMierdas - Exploring repos from loowid
+[DEBUG] 2019-09-26 16:22:41.717 [main] GithubClient - https://api.github.com/users/loowid/repos?type=owner&page=1&per_page=100 Obtuvo 7 resultados.
+[DEBUG] 2019-09-26 16:22:41.732 [main] User - Repositories complete for user: loowid
+[DEBUG] 2019-09-26 16:22:41.732 [main] RunMierdas - Exploring forks from loowid/connect-mongo
+[DEBUG] 2019-09-26 16:22:49.178 [main] GithubClient - https://api.github.com/repos/loowid/connect-mongo/forks?sort=stargazers&page=1&per_page=100 Obtuvo 0 resultados.
+[DEBUG] 2019-09-26 16:22:49.178 [main] RunMierdas - Exploring parent from loowid/connect-mongo
+[DEBUG] 2019-09-26 16:22:56.803 [main] RunMierdas - Repo (loowid/connect-mongo) completed
+[DEBUG] 2019-09-26 16:22:56.803 [main] RunMierdas - Exploring forks from loowid/hexbin
+[DEBUG] 2019-09-26 16:23:04.552 [main] GithubClient - https://api.github.com/repos/loowid/hexbin/forks?sort=stargazers&page=1&per_page=100 Obtuvo 0 resultados.
+[DEBUG] 2019-09-26 16:23:04.552 [main] RunMierdas - Exploring parent from loowid/hexbin
+[DEBUG] 2019-09-26 16:23:12.349 [main] RunMierdas - Repo (loowid/hexbin) completed
+[DEBUG] 2019-09-26 16:23:12.349 [main] RunMierdas - Exploring forks from loowid/loowid
+[DEBUG] 2019-09-26 16:23:20.661 [main] GithubClient - https://api.github.com/repos/loowid/loowid/forks?sort=stargazers&page=1&per_page=100 Obtuvo 38 resultados.
+[DEBUG] 2019-09-26 16:23:20.661 [main] RunMierdas - Exploring parent from loowid/loowid
+[DEBUG] 2019-09-26 16:23:28.423 [main] RunMierdas - Repo (loowid/loowid) completed
+[DEBUG] 2019-09-26 16:23:28.423 [main] RunMierdas - Exploring forks from loowid/loowid-chrome-extension
+[DEBUG] 2019-09-26 16:23:36.066 [main] GithubClient - https://api.github.com/repos/loowid/loowid-chrome-extension/forks?sort=stargazers&page=1&per_page=100 Obtuvo 3 resultados.
+[DEBUG] 2019-09-26 16:23:36.066 [main] RunMierdas - Exploring parent from loowid/loowid-chrome-extension
+[DEBUG] 2019-09-26 16:23:43.551 [main] RunMierdas - Repo (loowid/loowid-chrome-extension) completed
+[DEBUG] 2019-09-26 16:23:43.551 [main] RunMierdas - Exploring forks from loowid/loowid-doc
+[DEBUG] 2019-09-26 16:23:50.923 [main] GithubClient - https://api.github.com/repos/loowid/loowid-doc/forks?sort=stargazers&page=1&per_page=100 Obtuvo 0 resultados.
+[DEBUG] 2019-09-26 16:23:50.923 [main] RunMierdas - Exploring parent from loowid/loowid-doc
+[DEBUG] 2019-09-26 16:23:58.298 [main] RunMierdas - Repo (loowid/loowid-doc) completed
+[DEBUG] 2019-09-26 16:23:58.298 [main] RunMierdas - Exploring forks from loowid/loowid-docker
+[DEBUG] 2019-09-26 16:24:05.967 [main] GithubClient - https://api.github.com/repos/loowid/loowid-docker/forks?sort=stargazers&page=1&per_page=100 Obtuvo 1 resultados.
+[DEBUG] 2019-09-26 16:24:05.967 [main] RunMierdas - Exploring parent from loowid/loowid-docker
+[DEBUG] 2019-09-26 16:24:13.748 [main] RunMierdas - Repo (loowid/loowid-docker) completed
+[DEBUG] 2019-09-26 16:24:13.748 [main] RunMierdas - Exploring forks from loowid/loowid.github.io
+[DEBUG] 2019-09-26 16:24:21.248 [main] GithubClient - https://api.github.com/repos/loowid/loowid.github.io/forks?sort=stargazers&page=1&per_page=100 Obtuvo 0 resultados.
+[DEBUG] 2019-09-26 16:24:21.248 [main] RunMierdas - Exploring parent from loowid/loowid.github.io
+[DEBUG] 2019-09-26 16:24:28.716 [main] RunMierdas - Repo (loowid/loowid.github.io) completed
+[DEBUG] 2019-09-26 16:24:28.716 [main] RunMierdas - Exploring repos from torvalds
+[DEBUG] 2019-09-26 16:24:36.438 [main] GithubClient - https://api.github.com/users/torvalds/repos?type=owner&page=1&per_page=100 Obtuvo 6 resultados.
+[DEBUG] 2019-09-26 16:24:36.438 [main] User - Repositories complete for user: torvalds
+[DEBUG] 2019-09-26 16:24:36.438 [main] RunMierdas - Exploring forks from torvalds/libdc-for-dirk
+[DEBUG] 2019-09-26 16:24:44.526 [main] GithubClient - https://api.github.com/repos/torvalds/libdc-for-dirk/forks?sort=stargazers&page=1&per_page=100 Obtuvo 20 resultados.
+[DEBUG] 2019-09-26 16:24:44.526 [main] RunMierdas - Exploring parent from torvalds/libdc-for-dirk
+[DEBUG] 2019-09-26 16:24:52.214 [main] RunMierdas - Repo (torvalds/libdc-for-dirk) completed
+[DEBUG] 2019-09-26 16:24:52.214 [main] RunMierdas - Exploring forks from torvalds/linux
+[DEBUG] 2019-09-26 16:25:01.910 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=1&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:11.536 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=2&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:21.254 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=3&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:30.661 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=4&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:39.879 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=5&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:49.223 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=6&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:25:58.849 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=7&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:08.316 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=8&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:17.698 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=9&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:27.407 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=10&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:36.867 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=11&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:46.374 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=12&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:26:56.608 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=13&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:06.671 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=14&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:16.405 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=15&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:26.327 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=16&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:36.452 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=17&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:48.502 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=18&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:27:58.442 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=19&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:08.555 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=20&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:19.414 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=21&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:29.258 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=22&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:38.930 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=23&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:49.008 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=24&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:28:59.367 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=25&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:29:09.254 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=26&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:29:19.520 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=27&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:29:30.141 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=28&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:29:40.125 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=29&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:29:50.251 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=30&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:00.735 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=31&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:15.596 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=32&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:26.671 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=33&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:36.872 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=34&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:46.985 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=35&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:30:58.181 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=36&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:08.160 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=37&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:18.144 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=38&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:28.238 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=39&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:38.222 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=40&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:48.957 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=41&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:31:58.691 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=42&per_page=100 Obtuvo 100 resultados.
+[ERROR] 2019-09-26 16:32:06.134 [main] GithubClient - getUsersWhoForks: Failed : HTTP error code : 403
+[INFO ] 2019-09-26 16:32:06.291 [main] RunMierdas - Users and repos has been serialized
+[INFO ] 2019-09-26 16:32:06.291 [main] RunMierdas - Usuarios encontrados: 4261
+[INFO ] 2019-09-26 16:32:06.291 [main] RunMierdas - Repos recorridos: 8
+[ERROR] 2019-09-26 16:32:06.291 [main] RunMierdas - No se puede acceder al repositorio de github en estos momentos...
+[INFO ] 2019-09-26 16:34:27.839 [main] RunMierdas - Users and repos has been deserialized 
+[INFO ] 2019-09-26 16:34:27.839 [main] RunMierdas - User & repo manager loaded
+[DEBUG] 2019-09-26 16:34:27.839 [main] RunMierdas - Exploring forks from torvalds/linux
+[ERROR] 2019-09-26 16:34:35.827 [main] GithubClient - getUsersWhoForks: Failed : HTTP error code : 403
+[INFO ] 2019-09-26 16:34:35.983 [main] RunMierdas - Users and repos has been serialized
+[INFO ] 2019-09-26 16:34:35.983 [main] RunMierdas - Usuarios encontrados: 4261
+[INFO ] 2019-09-26 16:34:35.983 [main] RunMierdas - Repos recorridos: 8
+[ERROR] 2019-09-26 16:34:35.983 [main] RunMierdas - No se puede acceder al repositorio de github en estos momentos...
+[DEBUG] 2019-09-26 16:44:35.995 [main] RunMierdas - Exploring forks from torvalds/linux
+[DEBUG] 2019-09-26 16:44:45.857 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=43&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:44:55.951 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=44&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:07.656 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=45&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:17.218 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=46&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:26.781 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=47&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:37.656 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=48&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:47.593 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=49&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:45:58.224 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=50&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:46:08.765 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=51&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:46:19.422 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=52&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:46:29.719 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=53&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:46:39.672 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=54&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:46:49.593 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=55&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:02.230 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=56&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:12.449 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=57&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:22.605 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=58&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:33.293 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=59&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:43.071 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=60&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:47:52.711 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=61&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:03.345 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=62&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:14.048 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=63&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:24.235 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=64&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:34.236 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=65&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:44.220 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=66&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:48:55.032 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=67&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:05.698 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=68&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:16.073 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=69&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:26.416 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=70&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:36.572 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=71&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:46.354 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=72&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:49:55.916 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=73&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:06.934 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=74&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:16.684 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=75&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:26.746 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=76&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:37.039 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=77&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:47.149 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=78&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:50:56.993 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=79&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:08.282 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=80&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:18.110 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=81&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:28.048 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=82&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:38.407 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=83&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:48.376 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=84&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:51:58.642 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=85&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:08.783 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=86&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:19.048 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=87&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:29.236 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=88&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:38.877 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=89&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:49.642 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=90&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:52:59.939 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=91&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:53:09.882 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=92&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:53:19.662 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=93&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:53:29.974 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=94&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:53:40.174 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=95&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:53:50.377 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=96&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:00.627 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=97&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:10.449 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=98&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:20.558 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=99&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:30.543 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=100&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:40.261 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=101&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 16:54:49.886 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=102&per_page=100 Obtuvo 100 resultados.
+[ERROR] 2019-09-26 16:54:57.558 [main] GithubClient - getUsersWhoForks: Failed : HTTP error code : 403
+[INFO ] 2019-09-26 16:54:57.871 [main] RunMierdas - Users and repos has been serialized
+[INFO ] 2019-09-26 16:54:57.871 [main] RunMierdas - Usuarios encontrados: 10259
+[INFO ] 2019-09-26 16:54:57.871 [main] RunMierdas - Repos recorridos: 8
+[ERROR] 2019-09-26 16:54:57.871 [main] RunMierdas - No se puede acceder al repositorio de github en estos momentos...
+[DEBUG] 2019-09-26 17:04:57.873 [main] RunMierdas - Exploring forks from torvalds/linux
+[DEBUG] 2019-09-26 17:05:08.691 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=103&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:05:19.499 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=104&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:05:31.492 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=105&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:05:41.387 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=106&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:05:51.340 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=107&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:01.262 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=108&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:11.215 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=109&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:21.074 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=110&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:31.115 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=111&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:42.913 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=112&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:06:52.788 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=113&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:03.522 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=114&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:14.018 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=115&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:24.112 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=116&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:34.493 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=117&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:44.665 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=118&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:07:54.712 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=119&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:05.665 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=120&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:17.353 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=121&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:27.244 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=122&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:37.011 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=123&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:46.933 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=124&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:08:57.011 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=125&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:08.745 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=126&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:18.917 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=127&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:29.308 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=128&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:39.141 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=129&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:48.735 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=130&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:09:58.953 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=131&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:10:09.481 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=132&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:10:19.668 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=133&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:10:30.121 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=134&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:10:40.092 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=135&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:10:50.427 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=136&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:00.567 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=137&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:10.989 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=138&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:21.036 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=139&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:30.963 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=140&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:40.963 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=141&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:11:50.682 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=142&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:00.713 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=143&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:10.401 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=144&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:20.448 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=145&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:30.548 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=146&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:40.626 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=147&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:12:50.157 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=148&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:00.313 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=149&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:11.016 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=150&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:21.266 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=151&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:30.769 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=152&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:41.084 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=153&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:13:51.424 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=154&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:01.861 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=155&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:11.558 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=156&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:21.824 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=157&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:31.886 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=158&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:42.183 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=159&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:14:52.605 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=160&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:15:02.917 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=161&per_page=100 Obtuvo 100 resultados.
+[DEBUG] 2019-09-26 17:15:13.342 [main] GithubClient - https://api.github.com/repos/torvalds/linux/forks?sort=stargazers&page=162&per_page=100 Obtuvo 100 resultados.
+[ERROR] 2019-09-26 17:15:20.774 [main] GithubClient - getUsersWhoForks: Failed : HTTP error code : 403
+[INFO ] 2019-09-26 17:15:21.195 [main] RunMierdas - Users and repos has been serialized
+[INFO ] 2019-09-26 17:15:21.195 [main] RunMierdas - Usuarios encontrados: 16256
+[INFO ] 2019-09-26 17:15:21.195 [main] RunMierdas - Repos recorridos: 8
+[ERROR] 2019-09-26 17:15:21.195 [main] RunMierdas - No se puede acceder al repositorio de github en estos momentos...
+[INFO ] 2019-09-26 17:25:21.641 [main] RunMierdas - Users and repos has been serialized
+[INFO ] 2019-09-26 17:25:21.641 [main] RunMierdas - Usuarios encontrados: 16256
+[INFO ] 2019-09-26 17:25:21.641 [main] RunMierdas - Repos recorridos: 8
+[INFO ] 2019-09-26 18:09:09.035 [main] RunMierdas - Users and repos has been deserialized 
